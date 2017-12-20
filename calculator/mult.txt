@@ -1,0 +1,4 @@
+3 2 mult
+3.2 mult
+2 4
+mult
